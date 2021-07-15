@@ -1,0 +1,11 @@
+,p-value,p-value,p-value,significant,significant,significant
+Time,2016-2017,2017-2018,2016-2018,2016-2017,2017-2018,2016-2018
+Industry,,,,,,
+Bank/ Non-Bank Fin. Institution,,,,False,False,False
+Education,0.784,0.089,0.062,False,True,True
+Electronics/ Consumer Durables,,,,False,False,False
+Garments/ Textile,0.004,0.004,1,True,True,False
+Manufacturing (Heavy Industry),0.175,0.058,0.245,False,True,False
+Media ,0.596,0.04,0.232,False,True,False
+NGO/Development,0.081,0.393,0.184,True,False,False
+Telecommunication,0.169,0.705,0.356,False,False,False
