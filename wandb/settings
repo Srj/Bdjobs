@@ -1,0 +1,5 @@
+[default]
+entity = srjony
+project = bdjobs
+base_url = https://api.wandb.ai
+
