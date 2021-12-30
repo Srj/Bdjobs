@@ -1,0 +1,14 @@
+ ('NETWORK', 10580),
+ ('TEST', 7285),
+ ('DOCUMENTATION', 4281),
+
+
+ ('CCTV', 1247),
+ ('CAMERA', 892),
+####################################### ('REMOTE', 737),
+
+
+##### BI-GRAM
+VUE JS: 454
+WINDOWS SERVER: 453
+IP CAMERA: 443

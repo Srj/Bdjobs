@@ -1,6 +1,6 @@
 JobType,mean,std,N
-Contract,0.045,11.232,943
-Freelance,0.009,149.093,11
-FullTime,0.924,7.385,27060
-Intern,0.011,17.456,138
-PartTime,0.011,11.864,163
+Contract,0.043,10.944,1003
+Freelance,0.008,132.125,14
+FullTime,0.927,7.127,30173
+Intern,0.011,16.222,161
+PartTime,0.011,11.518,174
