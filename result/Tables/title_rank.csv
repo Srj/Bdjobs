@@ -1,11 +1,12 @@
-,2016,2017,2018,2019,2020,2021
-Software Developers,1,1,1,1,1,1
-Project Management Specialists,2,2,2,2,3,3
-Web Developers,3,3,3,3,2,2
-Computer Systems Engineers/Architects,4,7,6,5,4,4
-Computer User Support Specialists,5,5,7,7,6,6
-"Computer Occupations, All Other",6,6,5,6,5,7
-Business Intelligence Analysts,7,8,8,8,8,8
-Web and Digital Interface Designers,8,4,4,4,7,5
-Network and Computer Systems Administrators,9,9,10,10,11,11
-Telecommunications Engineering Specialists,10,12,11,11,10,10
+,2016,2016,2017,2017,2018,2018,2019,2019,2020,2020,2021,2021
+,Rank,Count,Rank,Count,Rank,Count,Rank,Count,Rank,Count,Rank,Count
+Software Developers,1,2775,1,2692,1,2507,1,2964,1,2135,1,3087
+Project Management Specialists,3,1357,3,1448,3,1648,4,1006,3,838,4,1390
+Web Developers,2,1442,2,1572,5,1327,3,1265,2,1100,3,1786
+Computer Systems Engineers/Architects,5,936,5,1157,7,1175,5,1000,4,807,2,2354
+Computer User Support Specialists,4,1108,4,1274,6,1221,6,737,5,671,5,1295
+"Computer Occupations, All Other",6,697,8,799,9,528,8,528,8,404,8,399
+Business Intelligence Analysts,8,395,7,948,8,721,9,421,6,444,10,347
+Web and Digital Interface Designers,7,583,6,954,2,1876,2,1547,7,425,6,686
+Network and Computer Systems Administrators,10,275,11,224,12,284,10,219,13,107,13,166
+Telecommunications Engineering Specialists,9,315,10,507,10,525,11,204,10,310,11,329
